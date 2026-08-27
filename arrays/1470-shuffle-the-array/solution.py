@@ -8,7 +8,7 @@ class Solution(object):
 
         result = []
 
-        for i in range(len(nums)/2):
+        for i in range(n):
             result.append(nums[i])
             result.append(nums[n + i])
 
