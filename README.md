@@ -10,6 +10,7 @@ The problems are organized by their main topic. Each problem folder contains the
 - [75. Sort Colors](arrays/0075-sort-colors/)
 - [1929. Concatenation of Array](arrays/1929-concatenation-of-array/)
 - [1470. Shuffle the Array](arrays/1470-shuffle-the-array/)
+- [485. Max Consecutive Ones](arrays/0485-max-consecutive-ones/)
 
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
