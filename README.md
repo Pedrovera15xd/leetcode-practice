@@ -12,6 +12,7 @@ The problems are organized by their main topic. Each problem folder contains the
 - [1470. Shuffle the Array](arrays/1470-shuffle-the-array/)
 - [485. Max Consecutive Ones](arrays/0485-max-consecutive-ones/)
 - [645. Set Mismatch](arrays/0645-set-mismatch/)
+- [1365. How Many Numbers Are Smaller Than the Current Number](arrays/1365-how-many-numbers-are-smaller-than-the-current-number/)
 
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
