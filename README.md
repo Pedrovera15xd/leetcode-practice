@@ -13,6 +13,7 @@ The problems are organized by their main topic. Each problem folder contains the
 - [485. Max Consecutive Ones](arrays/0485-max-consecutive-ones/)
 - [645. Set Mismatch](arrays/0645-set-mismatch/)
 - [1365. How Many Numbers Are Smaller Than the Current Number](arrays/1365-how-many-numbers-are-smaller-than-the-current-number/)
+- [448. Find All Numbers Disappeared in an Array](arrays/0448-find-all-numbers-disappeared-in-an-array/)
 
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
