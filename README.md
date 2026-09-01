@@ -18,6 +18,7 @@ The problems are organized by their main topic. Each problem folder contains the
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
 - [1441. Build an Array With Stack Operations](stacks/1441-build-an-array-with-stack-operations/)
+- [150. Evaluate Reverse Polish Notation](stacks/0150-evaluate-reverse-polish-notation/)
 
 ### Graphs
 - [200. Number of Islands](graphs/0200-number-of-islands/)
