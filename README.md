@@ -21,6 +21,7 @@ The problems are organized by their main topic. Each problem folder contains the
 - [150. Evaluate Reverse Polish Notation](stacks/0150-evaluate-reverse-polish-notation/)
 - [636. Exclusive Time of Functions](stacks/0636-exclusive-time-of-functions/)
 - [1475. Final Prices With a Special Discount in a Shop](stacks/1475-final-prices-with-a-special-discount-in-a-shop/)
+- [739. Daily Temperatures](stacks/0739-daily-temperatures/)
 
 ### Graphs
 - [200. Number of Islands](graphs/0200-number-of-islands/)
