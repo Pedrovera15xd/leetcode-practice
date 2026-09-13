@@ -24,6 +24,9 @@ The problems are organized by their main topic. Each problem folder contains the
 - [739. Daily Temperatures](stacks/0739-daily-temperatures/)
 - [84. Largest Rectangle in Histogram](stacks/0084-largest-rectangle-in-histogram/)
 
+### Queues
+- [1700. Number of Students Unable to Eat Lunch](queues/1700-number-of-students-unable-to-eat-lunch/)
+
 ### Graphs
 - [200. Number of Islands](graphs/0200-number-of-islands/)
 - [743. Network Delay Time](graphs/0743-network-delay-time/)
