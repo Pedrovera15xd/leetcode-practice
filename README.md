@@ -26,6 +26,7 @@ The problems are organized by their main topic. Each problem folder contains the
 
 ### Queues
 - [1700. Number of Students Unable to Eat Lunch](queues/1700-number-of-students-unable-to-eat-lunch/)
+- [2073. Time Needed to Buy Tickets](queues/2073-time-needed-to-buy-tickets/)
 
 ### Graphs
 - [200. Number of Islands](graphs/0200-number-of-islands/)
