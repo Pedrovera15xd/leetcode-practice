@@ -23,6 +23,7 @@ The problems are organized by their main topic. Each problem folder contains the
 - [1475. Final Prices With a Special Discount in a Shop](stacks/1475-final-prices-with-a-special-discount-in-a-shop/)
 - [739. Daily Temperatures](stacks/0739-daily-temperatures/)
 - [84. Largest Rectangle in Histogram](stacks/0084-largest-rectangle-in-histogram/)
+- [232. Implement Queue using Stacks](stacks/0232-implement-queue-using-stacks/)
 
 ### Queues
 - [1700. Number of Students Unable to Eat Lunch](queues/1700-number-of-students-unable-to-eat-lunch/)
