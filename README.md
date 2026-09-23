@@ -15,6 +15,10 @@ The problems are organized by their main topic. Each problem folder contains the
 - [1365. How Many Numbers Are Smaller Than the Current Number](arrays/1365-how-many-numbers-are-smaller-than-the-current-number/)
 - [448. Find All Numbers Disappeared in an Array](arrays/0448-find-all-numbers-disappeared-in-an-array/)
 
+### Hashing
+- [217. Contains Duplicate](hashing/0217-contains-duplicate/)
+- [242. Valid Anagram](hashing/0242-valid-anagram/)
+
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
 - [1441. Build an Array With Stack Operations](stacks/1441-build-an-array-with-stack-operations/)
