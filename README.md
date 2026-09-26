@@ -18,6 +18,7 @@ The problems are organized by their main topic. Each problem folder contains the
 ### Hashing
 - [217. Contains Duplicate](hashing/0217-contains-duplicate/)
 - [242. Valid Anagram](hashing/0242-valid-anagram/)
+- [1. Two Sum](hashing/0001-two-sum/)
 
 ### Stacks
 - [20. Valid Parentheses](stacks/0020-valid-parentheses/)
